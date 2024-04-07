@@ -43,15 +43,31 @@ layout: default
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
       </h2>
       {% include news.liquid limit=true %}
+    {% endif %}
+
+    <!-- Awards -->
+    {% if page.awards and site.announcements.enabled %}
+      <h2>
+        <a href="{{ '/awards/' | relative_url }}" style="color: inherit">Honors and Awards</a>
+      </h2>
+      {% include awards.liquid limit=true %}
+    {% endif %}
+
+    <!-- Educations -->
+    {% if page.educations and site.announcements.enabled %}
+      <h2>
+        <a href="{{ '/educations/' | relative_url }}" style="color: inherit">Educations</a>
+      </h2>
+      {% include educations.liquid limit=true %}
     {% endif %}
 
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
       <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
+        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">Latest Posts</a>
       </h2>
       {% include latest_posts.liquid %}
     {% endif %}

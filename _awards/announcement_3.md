@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Research Intern at West China Hospital & SenseTime Lab.
+Sichuan University Huawei Smart Base Scholarship 
