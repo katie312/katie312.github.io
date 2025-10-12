@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended NUS SOC workshop.
+Attended the NUS SOC workshop in Singapore; won second prize and received an A+.

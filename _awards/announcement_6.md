@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-EdgeX China Challenge Technology Rookie Award
+EdgeX China Challenge Technology Award

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Chengdu, Sichuan, China
+subtitle: Guangzhou, Guangdong, China
 
 profile:
   align: right
@@ -19,6 +19,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-She is currently pursuing her undergraduate degree at the School of Computer Science, Sichuan University (SCU), expected to graduate in 2025. Previously, she received guidance from Professor Xuedong Yuan and Professor Weihua Zhang at Sichuan University. She is now interning at the West China-SenseTimeJoint Lab, focusing on research related to diffusion generative models.
+She is currently pursuing her MPhil degree at The Hong Kong University of Science and Technology, Guangzhou campus, expected to graduate in 2027. Previously, she graduated from Sichuan University and conducted research under Prof. Kang Li at Huaxi & SenseTime Lab. She is now a researcher at the HKUST(GZ) NLP Lab under the guidance of Xuming Hu, focusing on multimodal retrieval, panoramic spatial reasoning, and omni-directional scene understanding.
 
-Her research interests are concentrated within the realm of computer vision, with a primary focus on Artificial Intelligence Generated Content (AIGC), multimodal learning, large-scale vision models, and diffusion-based generative models. Her objective is to enhance the practicality of AI-generated contexts in real-world applications by investigating optimal strategies for effectively leveraging imperfect data.
+Her research interests center on computer vision and multimodal learning, with a particular focus on large-scale vision models, multi-view spatial reasoning, and retrieval-augmented generation. She aims to improve the practicality of AI-generated contexts in real-world applications by exploring strategies for effectively leveraging imperfect and heterogeneous data.
+
+🔥 I am currently seeking intern opportunities! Feel free to contact me!
+
+

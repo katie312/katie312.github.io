@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Sichuan University-Jiangsu Wujiang High-tech Industrial Park College Student Innovation Scholarship
+Jiangsu Wujiang High-tech Industrial Park College Student Innovation Scholarship

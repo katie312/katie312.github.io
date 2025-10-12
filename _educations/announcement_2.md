@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2020-09-22 15:59:00-0400
+date: 2021-09-22-2025-08-22 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Bachelor of Engineering in Water conservancy and Hydropower, Sichuan University (SCU), Sichuan, China.
+Mphil in Artificial Intelligence, The Hong Kong University of Science and Technology (Guangzhou), Guangdong, China.
