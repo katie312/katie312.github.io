@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Sichuan University Huawei Smart Base Scholarship 
+Sichuan University Huawei Smart Base Scholarship

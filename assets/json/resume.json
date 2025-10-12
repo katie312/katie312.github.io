@@ -94,37 +94,19 @@
       "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "C++",
-        "Java"
-      ]
+      "keywords": ["Python", "C++", "Java"]
     },
     {
       "name": "Frameworks/Libraries",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Pytorch",
-        "Scikit-learn",
-        "OpenCV",
-        "Pandas",
-        "PIL",
-        "Selenium",
-        "Flask"
-      ]
+      "keywords": ["Pytorch", "Scikit-learn", "OpenCV", "Pandas", "PIL", "Selenium", "Flask"]
     },
     {
       "name": "Abilities",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Linux",
-        "Docker",
-        "Nginx",
-        "MySQL",
-        "Raspberry Pi"
-      ]
+      "keywords": ["Linux", "Docker", "Nginx", "MySQL", "Raspberry Pi"]
     }
   ],
   "languages": [
@@ -148,21 +130,12 @@
     {
       "name": "Computer Vision",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Diffusion Model",
-        "VLM finetuning",
-        "MultiModal",
-        "Data augmentaion",
-        "Image Segmentation"
-      ]
+      "keywords": ["Diffusion Model", "VLM finetuning", "MultiModal", "Data augmentaion", "Image Segmentation"]
     },
     {
       "name": "Large Language Model",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "RAG",
-        "Instruction learning"
-      ]
+      "keywords": ["RAG", "Instruction learning"]
     }
   ]
 }
